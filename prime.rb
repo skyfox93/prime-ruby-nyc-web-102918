@@ -1,6 +1,6 @@
 # Add  code here!
 def prime?(num)
-  prime=1
+  prime=TRUE
   factors=(2...num).to_a
   puts factors
   factors.each do |number|
