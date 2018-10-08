@@ -11,7 +11,7 @@ def prime?(num)
   if num==1||num==2
   prime=TRUE
 end
-if num<0
+if num<=0
   prime=FALSE
 end
 prime
