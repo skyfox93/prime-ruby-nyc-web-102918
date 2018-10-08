@@ -8,7 +8,7 @@ def prime?(num)
      prime=FALSE
     end
   end
-puts prime
+prime
 end
 
 prime?(9)
