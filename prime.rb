@@ -8,7 +8,9 @@ def prime?(num)
      prime=FALSE
     end
   end
-  
+  if num.abs==1||num.abs==2
+  prime=TRUE
+end
 prime
 end
 
