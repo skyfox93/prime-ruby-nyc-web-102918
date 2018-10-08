@@ -5,7 +5,7 @@ def prime?(num)
   puts factors
   factors.each do |number|
     if num.fdiv(number)==(num/number)
-     prime=0
+     prime=FALSE
     end
   end
 puts prime
