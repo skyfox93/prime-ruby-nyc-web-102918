@@ -14,4 +14,4 @@ end
 puts prime
 end
 
-prime?(-9)
+prime?(-1)
