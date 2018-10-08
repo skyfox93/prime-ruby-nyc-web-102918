@@ -6,5 +6,6 @@ def prime?(num)
   factors.each do |number|
   if(num.fdiv(number)==(num/number) prime=nil
 end
+end
 
 prime?(8)
