@@ -8,9 +8,6 @@ def prime?(num)
      prime=FALSE
     end
   end
-  if num==1||num==2
-  prime=TRUE
-end
 if num<=1
   prime=FALSE
 end
