@@ -14,7 +14,7 @@ end
 if num<0
   prime=FALSE
 end
-puts prime
+prime
 end
 
 prime?(-1)
