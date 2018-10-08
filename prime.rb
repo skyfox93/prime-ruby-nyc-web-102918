@@ -13,6 +13,7 @@ def prime?(num)
 end
 if num<0
   prime=FALSE
+end
 puts prime
 end
 
